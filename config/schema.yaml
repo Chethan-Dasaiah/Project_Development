@@ -1,0 +1,3 @@
+column:
+  -abc : string
+  -axz : int

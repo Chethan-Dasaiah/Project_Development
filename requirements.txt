@@ -1,0 +1,7 @@
+pandas
+matplotlib
+sklearn
+flake8
+pytest
+
+-e .
